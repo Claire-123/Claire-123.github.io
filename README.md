@@ -1,6 +1,6 @@
 <h1>Welcome 欢迎 \(•̀ ω •́ *\)✧</h1>
 <h2>Introduction 介绍</h2>
-<img src="https://github.com/Claire-123/Claire.github.io/blob/master/%E8%87%AA%E7%94%BB%E5%83%8F1.jpg" alt="The picture is lost 图片消失了QAQ">
+<img src="自画像1.jpg" alt="The picture is lost 图片消失了">
 <p>Hi, I'm Claire, a student who likes travel and art. Welcome to my Website. On this Website, I will show my artworks and the recording of the activities that I have participated.</p>
 <p>你好，我是Claire, 现在是个学生，热爱绘画和旅游。欢迎来到我的个人网页。在这里我将会展示我的作品以及参加过的活动的记录。</p>
 <h2>Folios 作品集</h2>
