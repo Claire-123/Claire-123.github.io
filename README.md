@@ -6,7 +6,7 @@
 <h2>Folios 作品集</h2>
 <p>Sorry, I still do not have some complete artworks. There will be a lot in the future!</p>
 <p>十分抱歉，暂时还没有什么能拿得出手的作品，以后会有的！</p>
-<img src="https://github.com/Claire-123/Claire.github.io/blob/master/%E6%AD%A3%E5%9C%A8%E7%94%BB.jpg" alt="The picture is lost 图片消失了QAQ">
+<img src="正在画.jpg" alt="The picture is lost 图片消失了QAQ">
 <h2>Activities 活动记录</h2>
 <h3>印尼绿色行动网站项目</h3>
 <h4>Week1 第一周</h4>
