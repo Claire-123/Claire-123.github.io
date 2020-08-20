@@ -1,0 +1,7 @@
+<style>
+body, html {
+  height: 100%;
+}
+  #content{width:1150px; height:100%; background-image: url("/img/work-bg.jpg");text-align:center; background-repeat: no-repeat;
+  background-size: cover;}
+  #header{border:medium solid black;}
